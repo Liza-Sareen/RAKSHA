@@ -1,0 +1,6 @@
+data/raw/
+__pycache__/
+*.pyc
+raksha-env/
+node_modules/
+.env
